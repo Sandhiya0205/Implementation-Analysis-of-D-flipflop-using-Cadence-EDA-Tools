@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![WhatsApp Image 2024-10-22 at 18 46 47_f07066ae](https://github.com/user-attachments/assets/ea512080-2c15-4bbc-b525-55310526e5fd)
+
 
 
 
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![WhatsApp Image 2024-10-22 at 18 46 57_d1f7e163](https://github.com/user-attachments/assets/814877e3-c2e8-473b-902f-d5dd730e4780)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +81,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![WhatsApp Image 2024-10-22 at 18 47 17_f8271d5a](https://github.com/user-attachments/assets/df250805-860f-4f03-8ae4-581483ac3364)
+
 
 
  
@@ -94,14 +97,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![WhatsApp Image 2024-10-22 at 18 02 22_e7fb5412](https://github.com/user-attachments/assets/696cae0e-ebaf-43a0-8133-d43e6567b04f)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![WhatsApp Image 2024-10-21 at 09 34 57_973d9bb2](https://github.com/user-attachments/assets/83c76a4d-c3fb-4306-934f-2be2a5357839)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+ ![WhatsApp Image 2024-10-22 at 18 48 08_24790728](https://github.com/user-attachments/assets/0f92ae6b-a840-43f9-8e89-361ef1f4aac3)
+
 
 
 Results:
