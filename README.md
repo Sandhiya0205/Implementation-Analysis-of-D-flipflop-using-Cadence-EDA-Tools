@@ -8,6 +8,9 @@ Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
 
+
+![WhatsApp Image 2024-10-22 at 18 46 47_f07066ae](https://github.com/Sandhiya0205/Implementation-Analysis-of-D-flipflop-using-Cadence-EDA-Tools/blob/main/Wha3.jpeg)
+
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
 1.	Right Click and open the terminal window
